@@ -37,7 +37,7 @@ website:
         aria-label: Email
 
   page-footer:
-    left: "© {{< now year >}} Quentin Maire"    
+    left: "© 2026 Quentin Maire"    
     right:
       - icon: github
         href: "https://github.com/quentin-maire"
