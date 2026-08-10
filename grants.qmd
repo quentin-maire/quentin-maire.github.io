@@ -10,7 +10,7 @@ title: "Featured grants and funding"
  2025-2026
  \
  USD72,821
-: Stephen Chatelier and **Quentin Maire** (co-lead CI), Jason Beech (CI) and Nicky Dulfer (CI), with Amy McKernan
+: Stephen Chatelier and **Quentin Maire** (co-lead CIs), Jason Beech (CI) and Nicky Dulfer (CI), with Amy McKernan
 : <u>Project aims</u>: coming soon.
   
 ---
@@ -22,7 +22,7 @@ title: "Featured grants and funding"
  2026
  \
  AUD19,429
-: Nikki Rickard and **Quentin Maire** (co-lead CI), Dave Camilleri (CI), Çağla Sanri (CI), Liz Jones (CI), with Haochen Zhou, Liang Borlagdan, Ying Ye, Mohsen Joshanloo and Sash Sahabandu
+: Nikki Rickard and **Quentin Maire** (co-lead CIs), Dave Camilleri (CI), Çağla Sanri (CI), Liz Jones (CI), with Haochen Zhou, Liang Borlagdan, Ying Ye, Mohsen Joshanloo and Sash Sahabandu
 : <u>Project aims</u>: coming soon.
   
 ---
