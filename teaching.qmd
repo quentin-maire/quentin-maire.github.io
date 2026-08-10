@@ -32,8 +32,3 @@ quantitative analysis of survey data.
 ## Supervision
 - coming soon.
 
-<!--
-If this list grows, convert it into a Quarto listing page
-(similar to a blog index) so each teaching item lives in its own file with
-structured metadata.
--->
