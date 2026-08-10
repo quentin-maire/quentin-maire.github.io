@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Quentin Maire"                      
+  description: >-
+    Sociologist of youth and education.
+  site-url: "https://quentin-maire.github.io"   
+  favicon: favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+      - href: publications.qmd
+        text: Selected publications
+      - href: grants.qmd
+        text: Grants
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      # Social / profile icons only 
+      - icon: mortarboard-fill      # stand-in icon for Google Scholar
+        href: "https://scholar.google.com/citations?user=OKBaRzwAAAAJ&hl=en"   
+        aria-label: Google Scholar
+      - icon: person-vcard          # stand-in icon for ORCID
+        href: "https://orcid.org/0000-0002-9761-1531"                
+        aria-label: ORCID
+      - icon: github
+        href: "https://github.com/quentin-maire"              
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:quentin.maire@unimelb.edu.au"                    
+        aria-label: Email
+
+  page-footer:
+    left: "© {{< now year >}} Quentin Maire"    
+    right:
+      - icon: github
+        href: "https://github.com/quentin-maire"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 850px

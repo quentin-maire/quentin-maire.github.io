@@ -1,0 +1,10 @@
+/* Override the theme's accent colour here — equivalent to assets/styles.scss
+   in the old Jekyll site. */
+
+:root {
+  --bs-link-color: #2c5f8a;
+}
+
+body {
+  max-width: 850px;
+}
