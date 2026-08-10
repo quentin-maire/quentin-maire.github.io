@@ -6,7 +6,7 @@ title: "Teaching"
 
 **Survey design and analysis** 
 : Undergraduate, University of Melbourne
-: Coordinator, lecturer and tutor
+: *Coordinator, lecturer and tutor*
 : A course introducing students to questionnaire design, sampling, and
 quantitative analysis of survey data.
 
@@ -15,7 +15,7 @@ quantitative analysis of survey data.
 
 **Education research methodology**
 : Graduate, University of Melbourne
-: Co-coordinator, seminar leader
+: *Co-coordinator, seminar leader*
 : A course introducing students to research design and methodology in education.
 
 ---
@@ -23,7 +23,7 @@ quantitative analysis of survey data.
 
 **Diversity, identities and education**
 : Graduate, University of Melbourne
-: Coordinator, lecturer and tutor
+: *Coordinator, lecturer and tutor*
 : A course introducing students to theoretical and applied research on social diversity in education.
 
 ---
