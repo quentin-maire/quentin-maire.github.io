@@ -7,7 +7,7 @@
 body {
   max-width: 850px;
 }
-```css
+
 .quarto-listing-container-default .quarto-post {
   border: 1px solid #e0e0e0;
   border-radius: 12px;
@@ -24,7 +24,7 @@ body {
 
 .quarto-listing-container-default .quarto-post .listing-title {
   font-size: 1.05rem;
-  font-weight: 600;
+  font-weight: 700 !important;
   margin-bottom: 0.25rem;
 }
 
