@@ -4,23 +4,22 @@ A draft Quarto version of a personal academic site, with pages: About me, Select
 
 ## 1. Adding files to folder
 
-Include CV as `CV.pdf` in this same top-level folder (where this file is).
+CV to be included as `CV.pdf` in this same top-level folder (where this file is).
 
 ## 2. Preview locally (optional)
 
-Install Quarto from <https://quarto.org/docs/get-started/> (a one-time
-installer, similar to installing Git), then from this folder run:
+Quarto to be installed from <https://quarto.org/docs/get-started/>, then from this folder run:
 
 ```
 quarto preview
 ```
 
-This opens a live preview in your browser that updates as edits are made. This step saves a round-trip through GitHub Actions for
+This will opens a live preview in the browser that updates as edits are made. This step saves a round-trip through GitHub Actions for
 every small tweak.
 
 ## 3. Deploy
 
-1. Create/rename a GitHub repo to `quentin-maire.github.io`.
+1. Create/rename a GitHub repo to `user-name.github.io`.
 2. Push this folder's contents via GitHub Desktop (Add local repository → Publish/Push).
 3. The included workflow (`.github/workflows/publish.yml`) builds the site
    and pushes it to a `gh-pages` branch itself. So in **Settings → Pages →
