@@ -8,6 +8,7 @@ listing:
       categories: "book"
     sort: "date desc"
     fields: [title, author, date, description]
+    date-format: "YYYY"
   - id: articles
     contents: publications.yml
     type: default
@@ -15,6 +16,7 @@ listing:
       categories: "article"
     sort: "date desc"
     fields: [title, author, date, description]
+    date-format: "YYYY"
   - id: chapters
     contents: publications.yml
     type: default
@@ -22,6 +24,7 @@ listing:
       categories: "chapter"
     sort: "date desc"
     fields: [title, author, date, description]
+    date-format: "YYYY"
 ---
 
 ## Book

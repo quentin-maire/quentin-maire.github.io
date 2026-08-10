@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: About me
       - href: publications.qmd
-        text: Selected publications
+        text: Publications
       - href: grants.qmd
         text: Grants
       - href: teaching.qmd
