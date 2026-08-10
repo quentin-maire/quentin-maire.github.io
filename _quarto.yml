@@ -49,3 +49,11 @@ format:
     toc: false
     grid:
       body-width: 850px
+    include-after-body:
+      text: |
+        <script>
+          document.querySelectorAll('.listing-title').forEach(function(link) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener');
+          });
+        </script>
