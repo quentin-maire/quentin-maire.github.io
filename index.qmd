@@ -1,5 +1,21 @@
 ---
 title: "About me"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=OKBaRzwAAAAJ&hl=en
+    - icon: person-vcard
+      text: ORCID
+      href: https://orcid.org/0000-0002-9761-1531
+    - icon: github
+      text: GitHub
+      href: https://github.com/quentin-maire
+    - icon: envelope
+      text: Email
+      href: mailto:quentin.maire@unimelb.edu.au
 ---
 
 Hello, I'm a Senior Research Fellow and Senior Lecturer in the School of Education and Society, Faculty of Education and School of Social and Political Sciences, Faculty of Arts at the University of Melbourne.
