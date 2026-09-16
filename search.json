@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
-    "section": "",
-    "text": "Hello, I’m a Senior Research Fellow and Senior Lecturer in the School of Education and Society, Faculty of Education and School of Social and Political Sciences, Faculty of Arts at the University of Melbourne.\nMy research focuses on inequality, social class, curriculum and qualifications. I use statistical and qualitative methods and explore social phenomena historically.\nI teach undergraduate and graduate courses in research methods and education.\nYou can find out more about my work on the Publications and Teaching pages, or get in touch by email (icon top right)."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
     "text": "You can download my full CV here: CV.pdf"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Survey design and analysis\n\nUndergraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to questionnaire design, sampling, and quantitative analysis of survey data.\n\n\n\n\nEducation research methodology\n\nGraduate, University of Melbourne\n\n\nCo-coordinator, seminar leader\n\n\nA course introducing students to research design and methodology in education.\n\n\n\n\nDiversity, identities and education\n\nGraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to theoretical and applied research on social diversity in education."
+  },
+  {
+    "objectID": "teaching.html#current-teaching-2026",
+    "href": "teaching.html#current-teaching-2026",
+    "title": "Teaching",
+    "section": "",
+    "text": "Survey design and analysis\n\nUndergraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to questionnaire design, sampling, and quantitative analysis of survey data.\n\n\n\n\nEducation research methodology\n\nGraduate, University of Melbourne\n\n\nCo-coordinator, seminar leader\n\n\nA course introducing students to research design and methodology in education.\n\n\n\n\nDiversity, identities and education\n\nGraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to theoretical and applied research on social diversity in education."
+  },
+  {
+    "objectID": "teaching.html#supervision",
+    "href": "teaching.html#supervision",
+    "title": "Teaching",
+    "section": "Supervision",
+    "text": "Supervision\n\ncoming soon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hello, I’m a Senior Research Fellow and Senior Lecturer in the School of Education and Society, Faculty of Education and School of Social and Political Sciences, Faculty of Arts at the University of Melbourne.\nMy research focuses on inequality, social class, curriculum and qualifications. I use statistical and qualitative methods and explore social phenomena historically.\nI teach undergraduate and graduate courses in research methods and education.\nYou can find out more about my work on the Publications and Teaching pages, or get in touch by email (icon top right)."
   },
   {
     "objectID": "publications.html",
@@ -61,26 +82,5 @@
     "title": "Featured grants and funding",
     "section": "Completed",
     "text": "Completed\n\nWhy rural teachers stay\n\nVictorian Department of Education\n2023-2024\nAUD165,120\n\n\nHernán Cuervo (lead CI) and Quentin Maire (CI)\n\n\nProject aims: coming soon."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Survey design and analysis\n\nUndergraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to questionnaire design, sampling, and quantitative analysis of survey data.\n\n\n\n\nEducation research methodology\n\nGraduate, University of Melbourne\n\n\nCo-coordinator, seminar leader\n\n\nA course introducing students to research design and methodology in education.\n\n\n\n\nDiversity, identities and education\n\nGraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to theoretical and applied research on social diversity in education."
-  },
-  {
-    "objectID": "teaching.html#current-teaching-2026",
-    "href": "teaching.html#current-teaching-2026",
-    "title": "Teaching",
-    "section": "",
-    "text": "Survey design and analysis\n\nUndergraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to questionnaire design, sampling, and quantitative analysis of survey data.\n\n\n\n\nEducation research methodology\n\nGraduate, University of Melbourne\n\n\nCo-coordinator, seminar leader\n\n\nA course introducing students to research design and methodology in education.\n\n\n\n\nDiversity, identities and education\n\nGraduate, University of Melbourne\n\n\nCoordinator, lecturer and tutor\n\n\nA course introducing students to theoretical and applied research on social diversity in education."
-  },
-  {
-    "objectID": "teaching.html#supervision",
-    "href": "teaching.html#supervision",
-    "title": "Teaching",
-    "section": "Supervision",
-    "text": "Supervision\n\ncoming soon."
   }
 ]
