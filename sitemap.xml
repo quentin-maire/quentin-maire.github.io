@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://quentin-maire.github.io/cv.html</loc>
-    <lastmod>2026-09-16T08:47:14.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quentin-maire.github.io/teaching.html</loc>
-    <lastmod>2026-09-16T08:47:14.836Z</lastmod>
+    <loc>https://quentin-maire.github.io/grants.html</loc>
+    <lastmod>2026-10-01T23:06:48.750Z</lastmod>
   </url>
   <url>
     <loc>https://quentin-maire.github.io/index.html</loc>
-    <lastmod>2026-09-16T08:47:14.826Z</lastmod>
+    <lastmod>2026-10-01T23:06:48.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quentin-maire.github.io/teaching.html</loc>
+    <lastmod>2026-10-01T23:06:48.760Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quentin-maire.github.io/cv.html</loc>
+    <lastmod>2026-10-01T23:06:48.750Z</lastmod>
   </url>
   <url>
     <loc>https://quentin-maire.github.io/publications.html</loc>
-    <lastmod>2026-09-16T08:47:14.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://quentin-maire.github.io/grants.html</loc>
-    <lastmod>2026-09-16T08:47:14.826Z</lastmod>
+    <lastmod>2026-10-01T23:06:48.755Z</lastmod>
   </url>
 </urlset>
